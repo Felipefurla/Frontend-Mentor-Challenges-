@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Alt text](/images/screenshot/screenshotqrCode.png?raw=true)
+![Alt text](solved/images/screenshot/screenshotqrCode.png)
 
 ### Links
 
